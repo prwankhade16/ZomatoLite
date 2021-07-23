@@ -1,0 +1,8 @@
+***** account *****
+
+srNo      username                    email                          mobile         password     cpassword
+1         Pramod Rajesh Wankhade      pramodwankhade16@gmail.com     7264988289     asdfghjk     asdfghjk
+2         Akash Rajesh Wankhade       akashwankhade162@gmail.com     7499535979     12345678     12345678
+
+
+
