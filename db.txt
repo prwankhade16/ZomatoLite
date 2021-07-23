@@ -1,8 +1,17 @@
 ***** account *****
 
 srNo      username                    email                          mobile         password     cpassword
+
 1         Pramod Rajesh Wankhade      pramodwankhade16@gmail.com     7264988289     asdfghjk     asdfghjk
 2         Akash Rajesh Wankhade       akashwankhade162@gmail.com     7499535979     12345678     12345678
 
 
+
+***** order_details *****
+
+srNo    food    qunt   name                      contact       Email                         area              city        lm                  apt_name    pin
+
+1       Dosa    10     Pramod Wankhade           7264988289    pramodwankhade16@gmail.com    wadner            Amaravati   Near Ram Mandir     NoName      444706
+2       Paneer  1      PRAMOD RAJESH WANKHADE    7264988289    pramodwankhade16@gmail.com    At. post BORDI    AKOLA       Near Ram Mandir     Xyz         444101
+3       Dosa    5      Akash Wankhade            7598358652    aks@gmail.com                 Bordi             Akola       Near Z. p. School   PRW         444101
 
