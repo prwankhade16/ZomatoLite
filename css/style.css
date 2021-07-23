@@ -1,0 +1,63 @@
+body {
+    background: lightgray;
+}
+
+.main {
+    width: 220px;
+    text-align: center;
+    border-radius: none;
+    background-color: red;
+    margin: auto;
+    margin-top: 100px;
+    padding: 60px;
+    border-radius: 10px;
+}
+
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    padding: 5px;
+    background: lightgrey;
+    min-width: 40px;
+    text-align: center;
+}
+
+.len {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.list {
+    text-decoration: none;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.button {
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    background-color: lightblue;
+    border-radius: 7px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.button:hover {
+    background: blue;
+}
+
+
+/***Extra small devices***/
+
+@media(max-width: 766px) {}
+
+
+/***Small devices***/
+
+@media(min-width: 767px) and (max-width: 991px) {}

@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(./images/bg.png);
+    background-size: cover;
+}
+
+.hr {
+    border-top: 1px solid black;
+}
+
+.order_cont {
+    border: 1px solid rgb(235, 217, 226);
+    border-radius: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px pink;
+    width: 100%;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+form {
+    justify-content: center;
+}
+
+input,
+.sl {
+    width: 80%;
+    padding: 20px;
+    text-overflow: clip;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid white;
+    margin: 20px auto;
+    opacity: 0.7;
+}
+
+.button {
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+
+.sl {
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.cont-2 {
+    margin: 20px auto;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(14, 15, 15);
+    color: white;
+}
+
+.prd {
+    text-align: center;
+}
+
+.prd img {
+    width: 250px;
+}
+
+.prd input {
+    width: 250px;
+    padding: 5px;
+}
+
+#price {
+    margin-top: 0px;
+}
+
+#total,
+.tot {
+    font-size: x-large;
+}

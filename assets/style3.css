@@ -1,0 +1,32 @@
+.confirm {
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    text-align: center;
+    width: 100%;
+    margin-top: 80px;
+    padding: 50px;
+}
+
+.confirm img {
+    border: 1px solid whitesmoke;
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px cyan;
+}
+
+.confirm p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 1.4em;
+    font: outline;
+}
+
+button a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+button a:hover {
+    text-decoration: none;
+    color: white;
+}
