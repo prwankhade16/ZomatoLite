@@ -79,7 +79,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="https://source.unsplash.com/1600x600/?food,restaurant" class="d-block w-100">
+                <img src="https://source.unsplash.com/1600x600/?food,drinks" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h1 style="color:white; opacity: 0.8; font-size: 8em;"> PRW </h1>
                     <p style="color:white; opacity:0.8; font-size:2em">Order food from favourite restaurants near you.
