@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sign up</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- css style -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    </script>
+
+</head>
+
+<body>
+
+    <div class="main">
+        <h2>Sign up</h2>
+        <center>
+            <form name="form1" method="POST" action="signup.php">
+                <h3>
+
+                    <div class="input-container">
+                        <i class="fa fa-user icon"></i>
+                        <input class="len" type="text" name="username" placeholder="Full Name" required><br><br>
+                    </div>
+
+                    <div class="input-container">
+                        <i class="fa fa-envelope icon"></i>
+                        <input class="len" type="text" name="email" placeholder="Email" required><br><br>
+                    </div>
+
+                    <div class="input-container">
+                        <i class="fa fa-mobile icon" aria-hidden="true"></i>
+                        <input class="len" type="text" name="mobile" placeholder="Mobile no." required><br><br>
+                    </div>
+
+                    <div class="input-container">
+                        <i class="fa fa-lock icon"></i>
+                        <input class="len" type="password" name="password" placeholder="Password" required><br><br>
+                    </div>
+
+                    <div class="input-container">
+                        <i class="fa fa-lock icon"></i>
+                        <input class="len" type="password" name="cpassword" placeholder="Confirm Password" required><br><br>
+                    </div>
+
+                    <input class="button" type="submit" name="submit" value="Sign up" onclick="phonenumber(document.form1.mobile)" /><br>
+
+                    <p style="font-size: 15px; color: black;">Already have an account?<a href="login.html">log in</a></p>
+                </h3>
+            </form>
+        </center>
+    </div>
+</body>
+
+</html>
